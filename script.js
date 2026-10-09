@@ -241,7 +241,7 @@ function vAuth() {
       <div class="field"><label>Email</label><input type="email" name="email" required placeholder="you@example.com"></div>
       <div class="field"><label>Password</label><div class="pw"><input type="password" name="password" required placeholder="••••••••"><button type="button" data-act="pw">👁</button></div></div>
       <button class="btn btn-primary btn-block">Login</button>
-      <div class="hint">🔑 Admin demo: <b>admin@apex.com</b> / <b>admin123</b></div></form>`
+      </form>`
     : `<form data-form="signup"><div class="form-grid">
       <div class="field full"><label>Full Name</label><input name="name" required></div>
       <div class="field"><label>Email</label><input type="email" name="email" required></div>
