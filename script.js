@@ -157,7 +157,7 @@ function vHome() {
     </div>
     <div class="hero-visual reveal" style="--d:150ms"><div class="orbit"></div>
       <div class="float-card"><div class="emo">💻</div><div><b>Web Development</b><span class="s">Build real products</span></div></div>
-      <div class="float-card"><div class="emo">📊</div><div><b>Data Science</b><span class="s">Turn data into insight</span></div></div>
+      <div class="float-card"><div class="emo">📊</div><div><b> Get Instant Offer letter </b><span class="s"> After Shortlisted In internships</span></div></div>
       <div class="float-card"><div class="emo">🎓</div><div><b>Certificate + LOR</b><span class="s">On successful completion</span></div></div>
     </div>
   </div></section>
